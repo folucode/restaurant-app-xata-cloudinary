@@ -1,0 +1,7 @@
+{
+  "databaseURL": "https://Tosin-Moronfolu-s-workspace-0gbdae.us-east-1.xata.sh/db/restaurant_menu",
+  "codegen": {
+    "output": "src/xata.js",
+    "moduleType": "esm"
+  }
+}
